@@ -1,7 +1,7 @@
 - Hi, I’m @RamilGirfanov
 - I’m currently learning Swift and iOS development. In March 2022 I completed online courses in Netology.
 - My training certificate: https://github.com/RamilGirfanov/RamilGirfanov/blob/main/certificate.pdf
-- My training certificate: https://github.com/RamilGirfanov/RamilGirfanov/blob/main/Рамиль%20Гирфанов.pdf
+- My resume: https://github.com/RamilGirfanov/RamilGirfanov/blob/main/Рамиль%20Гирфанов.pdf
 - Here you can see my pet projects. 
 - Open for cooperation learning the programming language Swift, ready to take part in the development of any application for iOS in exchange for experience and knowledge.
 - You can contact me on ramil.girfanov@gmail.com
