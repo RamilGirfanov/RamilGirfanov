@@ -1,7 +1,5 @@
 - Hi, I’m @RamilGirfanov
-- I’m iOS developer. 
-- Here you can see my pet projects. 
-- Open for cooperation learning the programming language Swift, ready to take part in the development of any application for iOS in exchange for experience and knowledge.
+- I’m iOS developer at Alfa-Bank. 
 - You can contact me on ramil.girfanov@gmail.com
 
 <!---
