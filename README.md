@@ -1,5 +1,5 @@
 - Hi, I’m @RamilGirfanov
-- I’m iOS developer at Alfa-Bank. 
+- iOS developer at Alfa-Bank. 
 - You can contact me on ramil.girfanov@gmail.com
 
 <!---
